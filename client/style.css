@@ -1,0 +1,46 @@
+
+button {
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+#deletebtn {
+  background-color: red;
+  color: white; 
+  cursor: pointer;
+  border: none; 
+  padding: 15px; 
+  border-radius: 20px;
+  margin-left: 5px;
+}
+#evolvebtn {
+background-color: #3B4CCA;
+  color: white; 
+  cursor: pointer;
+  border: none; 
+  padding: 15px; 
+  border-radius: 20px;
+}
+
+p {
+  font-size: large;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: white; 
+  margin-left: 15px; 
+
+}
+
+#pokemonList {
+  background-color: #B3A125; 
+  
+  
+}
+
+img {
+  width: 150px; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  
+}
